@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
         <p className="text-2xl font-[family-name:var(--font-geist-mono)]">
-          "Our website is under construction. Launching soon!"
+        &quot;Our website is under construction. Launching soon!&quot;
         </p>
 
         
